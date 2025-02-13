@@ -1,10 +1,9 @@
 # Sales-analysis-report-in-power-bi-with-UI-UX-Design
 
-# Sales Analysis Report
-
 
 # Report Overview
 The Sales Analysis report provides an interactive and visually engaging dashboard for stakeholders to explore sales performance, identify trends, and make data-driven decisions.
+![Sales analysis overview page](https://github.com/user-attachments/assets/46b86df1-4745-48c8-b0ed-190a6de39b5b)
 
 # Report Objectives
 *Analyze Sales Performance*
@@ -25,8 +24,10 @@ The Sales Analysis report provides an interactive and visually engaging dashboar
 - *Regional Analysis*: Enables stakeholders to explore sales performance by country.
 - *Product Analysis*: Allows stakeholders to analyze sales performance by product.
 - *Trend Analysis*: Provides insights into sales trends and seasonality.
-- *Home*: Displays the Sales Analysis Report.
-- *Help*: Offers instructions on using the Power BI report.
+- *Home*: Displays the Sales Analysis Report.![Home Page](https://github.com/user-attachments/assets/623fca97-cffc-42da-9c32-95e535618234)
+
+- *Help*: Offers instructions on using the Power BI report.![Help Page](https://github.com/user-attachments/assets/21edea9c-a6aa-446a-8bf2-f8cf6ade889c)
+
 
 # Interactive Elements
 *Features*
@@ -46,10 +47,14 @@ The Sales Analysis report provides an interactive and visually engaging dashboar
 
 # Key Insights
 *Highlights*
-- Units Sold: 3,125,788 units sold between Sep/21 - Dec/22.
-- Net Sales: $118,726,350 in net sales between Sep/21 - Dec/22.
-- Cost of Goods: $101,832,648 in cost of goods between Sep/21 - Dec/22.
-- Net Profit: $16,893,702 in net profit between Sep/21 - Dec/22.
+- Units Sold: 3,125,788 units sold between Sep/21 - Dec/22.![Units Sold](https://github.com/user-attachments/assets/07a341d3-9e35-417c-9f45-a2fd61e2eeb2)
+
+- Net Sales: $118,726,350 in net sales between Sep/21 - Dec/22.![Net Sales](https://github.com/user-attachments/assets/196fb2f6-54cb-4482-8ccc-a2ba59a2e78b)
+
+- Cost of Goods: $101,832,648 in cost of goods between Sep/21 - Dec/22.![Cost of Goods](https://github.com/user-attachments/assets/d9ffe4ad-403a-44b9-84d1-64745e6261a2)
+
+- Net Profit: $16,893,702 in net profit between Sep/21 - Dec/22.![Net Profit](https://github.com/user-attachments/assets/a1133d46-17a8-402c-90ea-f5fc79c06d8c)
+
 
 # Getting Started
 *Steps*
